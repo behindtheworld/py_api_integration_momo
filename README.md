@@ -1,4 +1,4 @@
-# MTN MoMo API Python Client</h1>
+# MTN API Python Client</h1>
 
 <strong>Power your apps with our MTN MoMo API</strong>
 
